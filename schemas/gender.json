@@ -10,6 +10,9 @@
       "id": {
         "type": "string",
         "format": "uri"
+      },
+      "label": {
+        "type": "string"
       }
     }
   }
