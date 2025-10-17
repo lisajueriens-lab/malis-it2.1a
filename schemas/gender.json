@@ -17,6 +17,6 @@
       }
     },
     "required": ["id", "label"],
-    "additionalProperties": false
+     "additionalProperties": false
   }
-}
+} 
