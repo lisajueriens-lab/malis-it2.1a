@@ -5,6 +5,7 @@
   "description": "Das Schema für das geographicAreaCode-Feld",
   "type": "array",
   "items": {
-    "type": "object"
+    "type": "object",
+    "properties": {}
   }
 }
