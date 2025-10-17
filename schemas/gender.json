@@ -12,7 +12,8 @@
         "format": "uri"
       },
       "label": {
-        "type": "string"
+        "type": "string",
+        "enum": ["Weiblich", "Männlich"]
       }
     }
   }
