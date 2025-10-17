@@ -4,5 +4,5 @@
   "title": "JSON-LD Context",
   "description": "Das Schema für das @context-Feld",
   "type": "string",
-  "const": "^http://lobid.org/gnd/context.jsonld"
+  "const": "http://lobid.org/gnd/context.jsonld"
 }
