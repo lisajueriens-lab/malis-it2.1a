@@ -1,7 +1,7 @@
 {
   "$id": "professionOrOccupation.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Profession oder  Beruf",
+  "title": "Profession oder Beruf",
   "description": "Das Schema für das professionOrOccupation-Feld",
   "type": "array",
   "items": {
@@ -11,7 +11,7 @@
         "type": "string",
         "format": "uri"
       },
-      "label" {
+      "label": {
         "type": "string"
       }
     }

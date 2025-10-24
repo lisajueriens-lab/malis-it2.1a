@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Wurzelschema",
-  "description": "Dies ist das Wurzelschema, das die Schemas für die einzlenen Felder referenziert.",
+  "description": "Dies ist das Wurzelschema, das die Schemas für die einzelnen Felder referenziert.",
   "type": "object",
   "properties": {
     "@context": {
@@ -35,5 +35,5 @@
       "$ref": "geographicAreaCode.json"
     }
   },
-  "required": ["@context","gndIdentifier,"id","preferredName",type"]
+  "required": ["@context","gndIdentifier","id","preferredName","type"]
 }
