@@ -3,9 +3,9 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Gender",
   "description": "Das Schema für das Gender-Feld",
-  "type": "object",
+  "type": "array",
   "items": {
-    "type": "array",
+    "type": "object",
     "properties": {
       "id": {
         "type": "string",
@@ -16,7 +16,6 @@
         "enum": ["Weiblich", "Männlich"]
       }
     },
-    "required": ["id", "label"],
-     "additionalProperties": false
+    "required": ["id", "label"]
   }
 } 

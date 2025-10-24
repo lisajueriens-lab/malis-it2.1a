@@ -3,9 +3,9 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Geographic Area Code",
   "description": "Das Schema für das geographicAreaCode-Feld",
-  "type": "object",
+  "type": "array",
   "items": {
-    "type": "array",
+    "type": "object",
     "properties": {
       "id": {
         "type": "string",
