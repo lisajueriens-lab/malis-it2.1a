@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Wurzelschema",
-  "description": "Dies ist das Wurzelschema, das die Schemas für die einzelnen Felder referenziert.",
+  "description": "Hier ist das Wurzelschema, das die Schemas für die einzelnen Felder referenziert.",
   "type": "object",
   "properties": {
     "@context": {
